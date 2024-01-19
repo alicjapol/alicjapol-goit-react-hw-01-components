@@ -1,0 +1,9 @@
+    .friendList {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    list-style: none;
+    padding: 20px;
+    text-align: center;
+  }
+  
