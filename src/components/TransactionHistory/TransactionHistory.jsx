@@ -14,7 +14,7 @@ const TransactionHistory = ({ items }) => {
         {items.map(transaction => (
           <tr key={transaction.id}>
             <td>{transaction.type}</td>
-            <td>{Number(transaction.amount)}</td>
+            <td>{transaction.amount}</td>
             <td>{transaction.currency}</td>
           </tr>
         ))}
