@@ -1,7 +1,7 @@
 .profile {
 margin: 0 auto;
 width: 260px;
-
+margin-top: 20px;
 text-align: center;
 border-radius: 0px 0px 4px 4px;
 background: var(--white, rgb(215, 196, 196));
